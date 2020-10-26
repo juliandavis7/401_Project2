@@ -12,7 +12,7 @@ Gathering Data
 - produces feature set # 1 for training and testing
 - generates train1.csv and test1.csv
 
-Gathering Data
+Gathering Data 2
 - produces feature set # 2 for training and testing
 - generates train2.csv and test2.csv
 
